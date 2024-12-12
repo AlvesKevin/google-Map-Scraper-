@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# Fichiers de cache et résultats
+scraping_cache.json
+resultats/*.json
+
+# Fichiers système
+.DS_Store 
